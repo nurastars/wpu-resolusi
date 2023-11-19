@@ -1,0 +1,6 @@
+halo pak, nama saya ujie dari Jawa Timur
+saya sekarang sedang bekerja
+ingin mengembangkan diri dengan mendalimi ilmu data
+Resolusi saya :
+- mendali konsep OOP
+- memahami tentang looping di python
